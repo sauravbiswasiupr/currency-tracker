@@ -1,0 +1,1 @@
+A simple application to keep track of currency quotes for currencies that users are interested in. Whenever a quote reaches an all time high, a push notification is triggered to the user(s) who are interested in that specific currency

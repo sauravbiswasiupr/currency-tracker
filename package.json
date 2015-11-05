@@ -1,0 +1,18 @@
+{
+  "name": "currency-updater",
+  "version": "1.0.0",
+  "description": "A simple app to check for user currency quotes based on currencies they are interested in",
+  "main": "app.js",
+  "dependencies": {
+  	"express": "*",
+  	"async": "*",
+  	"mongoose": "*",
+  	"pusher": "*",
+  	"request": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurav Biswas",
+  "license": "ISC"
+}
